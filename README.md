@@ -1,1 +1,1 @@
-# terradorm-sentinel-common-functions
+# terraform-sentinel-common-functions
